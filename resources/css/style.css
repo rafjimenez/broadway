@@ -30,12 +30,10 @@ h3 {
   font-weight: bold;
 }
 
-#copyright {
-  font-size: 11px
-  font-color: White;
-}
 
 #footer {
   background-color: DimGray;
   text-align: left;
+  color: White;
+  font-size: 11px
 }
